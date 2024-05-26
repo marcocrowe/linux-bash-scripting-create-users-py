@@ -1,7 +1,9 @@
 
 # OS Scripting and Python Assignment
 
-Creating a Python Script to Generate User Account
+Creating a Python Script to Generate User Accounts in a Linux System
+
+**Development Journal:** A journal of the development of the application is kept at [Development Journal](./docs/development-journal.md) file.
 
 ## Requirements
 
