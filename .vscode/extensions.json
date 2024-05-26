@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "njpwerner.autodocstring",
+        "maptz.camelcasenavigation",
+        "streetsidesoftware.code-spell-checker",
+        "wmaurer.change-case",
+        "eamodio.gitlens",
+        "yzhang.markdown-all-in-one",
+        "wraith13.open-in-github-desktop",
+        "donjayamanne.python-extension-pack",
+        "sonarsource.sonarlint-vscode",
+        "gruntfuggly.todo-tree",
+        "vscode-icons-team.vscode-icons",
+        "mechatroner.rainbow-csv",
+        "phoihos.csv-to-md-table"
+    ]
+}
